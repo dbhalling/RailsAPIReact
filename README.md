@@ -1,6 +1,8 @@
 # README
 
 
+To start the application run: 'foreman start'
+
 https://medium.com/@nick.hartunian/rails-5-api-create-react-app-full-stack-heaven-2b2160b5ce6b
 Rails api React tutorial
 
